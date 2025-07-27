@@ -1,0 +1,175 @@
+{
+  "id": "68857564e53dfc9c09624370",
+  "lessonNumber": 1,
+  "title": "Introduction to AI",
+  "status": "complete",
+  "assignment": {
+    "title": "Introduction to AI Concepts",
+    "objective": "Familiarize yourself with basic AI concepts and terms and explore applications in real-world scenarios.",
+    "expectedCapabilities": [
+      "Understand AI fundamentals",
+      "Identify AI applications",
+      "Recognize AI tools"
+    ],
+    "submissionInstructions": "Submit a document detailing your research and tools explored, including summaries and descriptions.",
+    "tasks": [
+      {
+        "taskNumber": 1,
+        "title": "Summarize AI Applications",
+        "description": "Write a brief paragraph summarizing an AI application in an industry of your choice.",
+        "codeExample": "N/A",
+        "_id": "688575bae53dfc9c096243a7"
+      }
+    ],
+    "instructions": [
+      {
+        "partNumber": 1,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Research Current AI Applications",
+            "description": "Find three current applications of AI in different industries and write a summary of each.",
+            "codeExample": "N/A",
+            "_id": "688575bae53dfc9c096243a5"
+          },
+          {
+            "taskNumber": 2,
+            "title": "Select an AI Tool to Explore",
+            "description": "Choose an AI tool such as TensorFlow and describe its main use cases and features.",
+            "codeExample": "N/A",
+            "_id": "688575bae53dfc9c096243a6"
+          }
+        ],
+        "_id": "688575bae53dfc9c096243a4"
+      }
+    ],
+    "checklist": [
+      "AI applications researched",
+      "AI tool explored",
+      "Summary written"
+    ],
+    "checkForUnderstanding": [
+      {
+        "question": "What are some industries where AI is applied?",
+        "options": [
+          "Healthcare, automotive, finance",
+          "Only computing",
+          "Retail only"
+        ],
+        "answer": "Healthcare, automotive, finance",
+        "_id": "688575bae53dfc9c096243a2"
+      },
+      {
+        "question": "Name an AI tool you explored.",
+        "options": [
+          "TensorFlow",
+          "Excel",
+          "WordPad"
+        ],
+        "answer": "TensorFlow",
+        "_id": "688575bae53dfc9c096243a3"
+      }
+    ]
+  },
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "What is Artificial Intelligence?",
+      "content": "Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, particularly computer systems. These processes include learning (the acquisition of information and rules for using it), reasoning (using rules to reach approximate or definite conclusions), and self-correction.",
+      "videoUrl": "http://video.com/whatIsAI",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://en.wikipedia.org/wiki/Artificial_intelligence"
+      ],
+      "quizzes": [
+        {
+          "question": "What is Artificial Intelligence?",
+          "options": [
+            "Simulation of human intelligence by machines",
+            "Programming languages for computers",
+            "Internet technology"
+          ],
+          "answer": "Simulation of human intelligence by machines",
+          "_id": "688575bae53dfc9c0962439b"
+        }
+      ],
+      "_id": "688575bae53dfc9c0962439a"
+    },
+    {
+      "subsectionOrder": 2,
+      "title": "Brief History of AI",
+      "content": "The idea of inanimate objects endowed with intelligence has been around since ancient times. The formal start of AI as a field was marked by a conference at Dartmouth College in 1956. Over the years, AI has gone through several cycles of enthusiasm and setbacks until it reached modern advancements powered by data and enhanced algorithms.",
+      "videoUrl": "http://video.com/historyOfAI",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.smithsonianmag.com/history/brief-history-artificial-intelligence-180968703/"
+      ],
+      "quizzes": [
+        {
+          "question": "When did AI start formally as a field?",
+          "options": [
+            "1950",
+            "1956",
+            "1960"
+          ],
+          "answer": "1956",
+          "_id": "688575bae53dfc9c0962439d"
+        }
+      ],
+      "_id": "688575bae53dfc9c0962439c"
+    },
+    {
+      "subsectionOrder": 3,
+      "title": "Key Components of AI",
+      "content": "AI systems typically require large datasets to train machine learning models. Key components include datasets, algorithms, computing power, and purpose-built software frameworks.",
+      "videoUrl": "http://video.com/aiComponents",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence"
+      ],
+      "quizzes": [
+        {
+          "question": "What are key components of an AI system?",
+          "options": [
+            "Datasets, algorithms, and computing power",
+            "Manual programming and hardcoding",
+            "Traditional software applications"
+          ],
+          "answer": "Datasets, algorithms, and computing power",
+          "_id": "688575bae53dfc9c0962439f"
+        }
+      ],
+      "_id": "688575bae53dfc9c0962439e"
+    },
+    {
+      "subsectionOrder": 4,
+      "title": "AI Tools and Applications",
+      "content": "AI is applied in numerous domains, including healthcare, automotive, finance, and entertainment. Tools such as TensorFlow and PyTorch are popular among developers for creating AI applications and training machine learning models.",
+      "videoUrl": "http://video.com/aiTools",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://towardsdatascience.com/10-ai-tools-you-should-know-d1272d9b00d2"
+      ],
+      "quizzes": [
+        {
+          "question": "Which of these is an AI tool?",
+          "options": [
+            "TensorFlow",
+            "Java",
+            "PHP"
+          ],
+          "answer": "TensorFlow",
+          "_id": "688575bae53dfc9c096243a1"
+        }
+      ],
+      "_id": "688575bae53dfc9c096243a0"
+    }
+  ],
+  "supplementalVideos": [
+    "http://video.com/introToAIResources"
+  ],
+  "references": [
+    "https://ai.google/research/",
+    "https://deepmind.com/"
+  ]
+}
