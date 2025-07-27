@@ -1,0 +1,34 @@
+{
+  "id": "68857564e53dfc9c0962436b",
+  "title": "n8n AI 101 course",
+  "description": "desc",
+  "learningObjectives": [
+    "Understand the basics of Artificial Intelligence",
+    "Learn about Machine Learning and Deep Learning",
+    "Gain knowledge about AI tools and applications",
+    "Apply AI concepts to real world problems"
+  ],
+  "finalProjectDetails": {
+    "overview": "The final project requires students to apply all the knowledge gained throughout the course to solve a real-world problem using AI.",
+    "planningResources": [
+      "Machine Learning Algorithm Selection Guide",
+      "AI Tools Tutorial",
+      "Result Documentation Format"
+    ],
+    "submissionInstructions": "Submit the final project report with detailed description about the machine learning model, implementation process, results, and learning outcomes.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "remoteGithubUrl": null,
+  "createdAt": "2025-07-27T00:40:04.545Z",
+  "updatedAt": "2025-07-27T00:40:04.545Z",
+  "lessonCount": 4
+}
